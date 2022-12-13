@@ -10,7 +10,7 @@ Mobile-friendly, interactive digital image interpretation created using:
 * gdal2tiles-leaflet (https://github.com/commenthol/gdal2tiles-leaflet)
 
 ## Check It Out
-https://hkeshani.github.io/shahnama-storyscroll/
+https://www.mashadchowdhury.com/164a-Bodleian-Library-MS-Ouseley-Add-176/
 
 
 ## Instructions

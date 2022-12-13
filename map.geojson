@@ -1,7 +1,7 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Cite This",
+    "chapter":"Bodleian Library MS. Ouseley Add. 176 fol. 164a",
     "zoom":1,
     "image":"",
     "source-credit":"Source: Library of Congress",
